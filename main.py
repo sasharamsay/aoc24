@@ -45,9 +45,7 @@ def run(day, part, test):
         1: (day_1, day_1_part_2)
     }
 
-    output = day_map[day][part-1](filename)
-    answer_var.set(str(output))
-    print(day_map[day][part - 1](filename))
+    answer_var.set(str(day_map[day][part-1](filename)))
 
 
 if __name__ == '__main__':

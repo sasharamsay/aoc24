@@ -1,5 +1,6 @@
 from tkinter import *
 from day1 import *
+from day2 import *
 
 window = Tk()
 window.geometry('230x185')
@@ -42,7 +43,8 @@ def run(day, part, test):
     filename = 'input/' + file_type + str(day) + '.txt'
 
     day_map = {
-        1: (day_1, day_1_part_2)
+        1: (day_1, day_1_part_2),
+        2: (day_2, day_2_part_2)
     }
 
     answer_var.set(str(day_map[day][part-1](filename)))

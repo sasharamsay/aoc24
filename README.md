@@ -4,8 +4,8 @@
   - [x] Part 1
   - [x] Part 2
 - [Day 2](https://adventofcode.com/2024/day/2)
-  - [ ] Part 1
-  - [ ] Part 2
+  - [x] Part 1
+  - [x] Part 2
 - [Day 3](https://adventofcode.com/2024/day/3)
   - [ ] Part 1
   - [ ] Part 2

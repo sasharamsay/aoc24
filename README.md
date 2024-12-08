@@ -13,8 +13,8 @@
   - [ ] Part 1
   - [ ] Part 2
 - [Day 5](https://adventofcode.com/2024/day/5)
-  - [ ] Part 1
-  - [ ] Part 2
+  - [x] Part 1
+  - [x] Part 2
 - [Day 6](https://adventofcode.com/2024/day/6)
   - [ ] Part 1
   - [ ] Part 2
